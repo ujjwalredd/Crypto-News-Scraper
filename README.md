@@ -60,7 +60,7 @@ crypto_news/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ujjwalredd/Crypto-News-Scraper.git
    cd crypto_news
    ```
 
@@ -248,14 +248,6 @@ Standard Scrapy middleware implementation for:
 - Request/response processing
 - Exception handling
 - Spider lifecycle management
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
 ## 📝 License
 
